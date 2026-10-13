@@ -79,7 +79,7 @@ Buttons and bookmarks support the menu's visibility and navigation experience, h
 
 ![Power BI Q&A](QNA.png)
 
-The report includes a **Power BI Q&A feature** that enables users to explore the dataset using natural-language questions and suggested queries. This allows users to investigate key trends without manually creating every visual.
+The report includes a **Power BI Q&A feature** that enables users to explore the dataset using natural-language questions and suggested queries, without manually creating every visual.
 
 **Example questions and analyses include:**
 - Identify the country with the highest total respondent count.
@@ -87,7 +87,17 @@ The report includes a **Power BI Q&A feature** that enables users to explore the
 - Analyze willingness to work after a layoff.
 - Examine three-year tenure preferences.
 
-This feature supports exploratory data analysis by helping users discover patterns, investigate specific topics, and gain insights more efficiently.
+#### Example: Natural-Language Query
+
+![Power BI Q&A Example](QnA%20Example.png)
+
+**Example query:** `Top country by total`
+
+**Result:** India — **62,711** total respondents.
+
+This example demonstrates how users can ask questions in everyday language and quickly retrieve insights from the dataset.
+
+
 ### 3. Information Panel
 
 ![Dashboard Information Panel](Info.png)
